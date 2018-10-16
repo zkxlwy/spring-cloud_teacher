@@ -10,14 +10,14 @@
       </configuration>
     </facet>
   </component>
-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_10">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
     <output url="file://$MODULE_DIR$/../../eureka/out/production/classes" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../eureka/src/main">
       <sourceFolder url="file://$MODULE_DIR$/../../eureka/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../eureka/src/main/resources" type="java-resource" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="11" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Gradle: org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:2.0.1.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: javax.xml.bind:jaxb-api:2.3.0" level="project" />

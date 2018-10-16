@@ -23,7 +23,7 @@ apply plugin: 'com.palantir.docker-run'
 
 group = 'com.example'
 version = '0.0.1-SNAPSHOT'
-sourceCompatibility = 10
+sourceCompatibility = 11
 
 docker {
     dependsOn build
